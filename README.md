@@ -1,1 +1,2 @@
-# SpringCrudProjects
+# SpringCrudProjects 
+     This project included Simple crud operation also contain Junit test cases, Exception handling etc...
